@@ -55,6 +55,6 @@ relatively stable throughout.
 Classification was performed in ENVI using training samples verified 
 through Google Earth Pro. Final map layout was produced in ArcGIS.
 
-![Change Detection Map](Change_detection.png)
+![Change detection](Change_detection.png)
 This analysis demonstrates how GIS can support urban planning, early warning 
 systems, and disaster preparedness decisions at the local level.
