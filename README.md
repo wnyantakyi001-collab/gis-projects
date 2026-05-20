@@ -33,6 +33,10 @@ Each factor was mapped and classified independently before being combined
 into a final risk classification identifying high, moderate, and low risk 
 zones across the region.
 
+![Flood Risk Map](Flood_Risk_Map.png)
+
+📄 [View Full Map (PDF)](Flood_Risk_Map.pdf)
+
 ### Land Cover Change Detection – Tano Nimiri Forest Reserve (2015–2020)
 **Tools used:** ENVI, Google Earth Pro, ArcGIS  
 **Date:** May 2026
@@ -54,7 +58,3 @@ through Google Earth Pro. Final map layout was produced in ArcGIS.
 ![Change Detection Map](TanoNimiri.png)
 This analysis demonstrates how GIS can support urban planning, early warning 
 systems, and disaster preparedness decisions at the local level.
-
-![Flood Risk Map](Flood_Risk_Map.png)
-
-📄 [View Full Map (PDF)](Flood_Risk_Map.pdf)
