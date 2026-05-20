@@ -33,6 +33,25 @@ Each factor was mapped and classified independently before being combined
 into a final risk classification identifying high, moderate, and low risk 
 zones across the region.
 
+### Land Cover Change Detection – Tano Nimiri Forest Reserve (2015–2020)
+**Tools used:** ENVI, Google Earth Pro, ArcGIS  
+**Date:** May 2026
+
+Monitored land cover change in the Tano Nimiri Forest Reserve in Ghana 
+between 2015 and 2020 using supervised classification of satellite imagery. 
+Land cover classes included vegetation, built-up and infrastructure, bare 
+land, and water bodies.
+
+In 2015 the reserve was dominated by dense vegetation with minimal human 
+activity. By 2020 notable changes had emerged including the appearance of 
+bare land and expansion of built-up areas, suggesting increasing pressure 
+on the forest reserve over the five year period. Water bodies remained 
+relatively stable throughout.
+
+Classification was performed in ENVI using training samples verified 
+through Google Earth Pro. Final map layout was produced in ArcGIS.
+
+![Change Detection Map](TanoNimiri.png)
 This analysis demonstrates how GIS can support urban planning, early warning 
 systems, and disaster preparedness decisions at the local level.
 
