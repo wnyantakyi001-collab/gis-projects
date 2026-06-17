@@ -52,6 +52,13 @@ bare land and expansion of built-up areas, suggesting increasing pressure
 on the forest reserve over the five year period. Water bodies remained 
 relatively stable throughout.
 
+Classification was performed in ENVI using training samples verified 
+through Google Earth Pro. Final map layout was produced in ArcGIS.
+
+![Change detection](Change_detection.png)
+This analysis demonstrates how GIS can support urban planning, early warning 
+systems, and disaster preparedness decisions at the local level.
+
 ### Interactive Story Map – Geochemical Lithium Exploration at Oboadze, Central Region
 **Tools used:** ArcGIS Online, ArcGIS StoryMaps  
 **Date:** June 2026
@@ -62,10 +69,3 @@ photographs, GPS sampling coordinates, and field
 reflections to communicate the full field experience from planning through execution.
 
 🔗 [View the Story Map](https://arcg.is/bajTq1)
-
-Classification was performed in ENVI using training samples verified 
-through Google Earth Pro. Final map layout was produced in ArcGIS.
-
-![Change detection](Change_detection.png)
-This analysis demonstrates how GIS can support urban planning, early warning 
-systems, and disaster preparedness decisions at the local level.
